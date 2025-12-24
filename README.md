@@ -40,19 +40,5 @@ A full-stack task management application built with Node.js, Express, MongoDB, a
 ### Task Creation
 ![Task Creation](screenshots/create-task.png)
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- MongoDB Atlas account
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/task-manager-app.git
-
-   cd task-manager-app
 
