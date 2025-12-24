@@ -6,7 +6,7 @@ A full-stack task management application built with Node.js, Express, MongoDB, a
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://your-app-name.onrender.com)** 👈 Try it out!
+**[View Live Demo](https://task-manager-app-aki3.onrender.com/)** 👈 Try it out!
 
 ## ✨ Features
 
@@ -53,4 +53,5 @@ A full-stack task management application built with Node.js, Express, MongoDB, a
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YOUR_USERNAME/task-manager-app.git
+
    cd task-manager-app
