@@ -2,7 +2,7 @@
 
 A full-stack task management application built with Node.js, Express, MongoDB, and vanilla JavaScript.
 
-![Task Manager Screenshot](screenshot.png)
+![Main Interface](https://github.com/AbhisekPradhan824/task-manager-app/blob/main/screenshots/main.png)
 
 ## 🚀 Live Demo
 
@@ -38,7 +38,7 @@ A full-stack task management application built with Node.js, Express, MongoDB, a
 ![Main Interface](screenshots/main.png)
 
 ### Task Creation
-![Task Creation](screenshots/create.png)
+![Task Creation](screenshots/create-task.png)
 
 ## 🚀 Getting Started
 
@@ -55,3 +55,4 @@ A full-stack task management application built with Node.js, Express, MongoDB, a
    git clone https://github.com/YOUR_USERNAME/task-manager-app.git
 
    cd task-manager-app
+
